@@ -1,1 +1,1 @@
-Hello. You have successfully completed your payment.
+Hi. Nice to meet you.
